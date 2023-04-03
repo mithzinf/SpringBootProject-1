@@ -8,7 +8,9 @@ class SpringBootProject1ApplicationTests {
 
 	@Test
 	void contextLoads() {
-		// 안녕하십니까
+		// HelloWorld
+		// KingDave
+		// dfefa
 	}
 
 }
